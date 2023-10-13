@@ -1,0 +1,15 @@
+{
+  "name": "belajar-nodejs-eslint",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS ESLint",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eko Kurniawan Khannedy",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.51.0"
+  }
+}
